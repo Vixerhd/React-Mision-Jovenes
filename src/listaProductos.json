@@ -1,0 +1,41 @@
+{
+    "listaProductos":[
+        {
+            "titulo":"Headphones Black and Green",
+            "imagen":"https://images.zmart.cl/Productos/SKU/2021/02/05/XBSXH008_202125133040_b.jpg",
+            "descripcion":"Audifonos Bluetooth Razer, duracion maxima 20 horas",
+            "precio":"39.000",
+            "stock":"4"
+        },
+        {
+            "titulo":"Nintendo Switch Oled",
+            "imagen":"https://images.zmart.cl/Productos/SKU/2021/07/06/NSWX024_20217695524_b.png",
+            "descripcion":"Consola Nintendo Switch con duracion hasta 6 horas",
+            "precio":"329.000",
+            "stock":"3"
+        },
+        {
+            "titulo":"Consola Sony PS5",
+            "imagen":"https://images.zmart.cl/Productos/SKU/2022/11/15/PS5X007_2022111515280_b.jpg",
+            "descripcion":"Pack consola PS5 con un control y juego digital FIFA 23 ",
+            "precio":"399.990",
+            "stock":"2"
+        },
+        {
+            "titulo":"Consola XBOX Serie X",
+            "imagen":"https://images.zmart.cl/Productos/SKU/2020/10/08/XSXX001_2020108123917_b.png",
+            "descripcion":"Consola Xbox Serie X solo juegos digitales ",
+            "precio":"229.000",
+            "stock":"1"
+        },
+        {
+            "titulo":"Consola New Nintendo 2DS XL",
+            "imagen":"https://images.zmart.cl/Productos/SKU/2018/03/05/N3DSX057_20183516521_b.jpg",
+            "descripcion":"Consola Nintendo 2DS XL Black Turqoise",
+            "precio":"129.990",
+            "stock":"5"
+        }
+
+    ]
+
+}
