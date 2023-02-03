@@ -2,6 +2,9 @@ Así se ve finalmente la pagina web: 👇👇👇
 
 ![Imagen que muestra el resultado](https://github.com/njaragg/React-JovenesProgramadores/blob/master/react%20front%20sin%20navegador.png)
 
+![Imagen que muestra el resultado](https://github.com/njaragg/React-JovenesProgramadores/blob/master/modal.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
